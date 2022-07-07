@@ -1,0 +1,147 @@
+MonthDate,Reference,GLAccount,AccountDesc,Debit,Credit,Type,Subsidiary,PaymentDueDate,Location
+201901,Federal Trust Annadale,1801,Right of Use Asset - Operating,295510.36,0,debit,HMS Management  2,,100
+201901,Federal Trust Annadale,2501,Lease Liability - Operating,0,295510.36,credit,HMS Management  2,,100
+201901,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201901,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8925,credit,HMS Management  2,,100
+201901,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201901,Federal Trust Annadale,2501,Lease Liability - Operating,8925,0,debit,HMS Management  2,,100
+201902,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201902,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7503.21,credit,HMS Management  2,,100
+201902,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201902,Federal Trust Annadale,2501,Lease Liability - Operating,7503.21,0,debit,HMS Management  2,,100
+201903,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201903,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7674.73,credit,HMS Management  2,,100
+201903,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201903,Federal Trust Annadale,2501,Lease Liability - Operating,7674.73,0,debit,HMS Management  2,,100
+201904,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201904,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7578.51,credit,HMS Management  2,,100
+201904,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201904,Federal Trust Annadale,2501,Lease Liability - Operating,7578.51,0,debit,HMS Management  2,,100
+201905,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201905,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7658.43,credit,HMS Management  2,,100
+201905,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201905,Federal Trust Annadale,2501,Lease Liability - Operating,7658.43,0,debit,HMS Management  2,,100
+201906,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201906,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7654.1,credit,HMS Management  2,,100
+201906,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201906,Federal Trust Annadale,2501,Lease Liability - Operating,7654.1,0,debit,HMS Management  2,,100
+201907,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201907,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7731.94,credit,HMS Management  2,,100
+201907,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201907,Federal Trust Annadale,2501,Lease Liability - Operating,7731.94,0,debit,HMS Management  2,,100
+201908,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201908,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7730.44,credit,HMS Management  2,,100
+201908,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201908,Federal Trust Annadale,2501,Lease Liability - Operating,7730.44,0,debit,HMS Management  2,,100
+201909,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201909,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7768.79,credit,HMS Management  2,,100
+201909,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201909,Federal Trust Annadale,2501,Lease Liability - Operating,7768.79,0,debit,HMS Management  2,,100
+201910,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201910,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7843.47,credit,HMS Management  2,,100
+201910,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201910,Federal Trust Annadale,2501,Lease Liability - Operating,7843.47,0,debit,HMS Management  2,,100
+201911,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201911,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7846.24,credit,HMS Management  2,,100
+201911,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201911,Federal Trust Annadale,2501,Lease Liability - Operating,7846.24,0,debit,HMS Management  2,,100
+201912,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+201912,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7918.79,credit,HMS Management  2,,100
+201912,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+201912,Federal Trust Annadale,2501,Lease Liability - Operating,7918.79,0,debit,HMS Management  2,,100
+202001,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202001,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7924.46,credit,HMS Management  2,,100
+202001,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202001,Federal Trust Annadale,2501,Lease Liability - Operating,7924.46,0,debit,HMS Management  2,,100
+202002,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202002,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,7963.77,credit,HMS Management  2,,100
+202002,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202002,Federal Trust Annadale,2501,Lease Liability - Operating,7963.77,0,debit,HMS Management  2,,100
+202003,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202003,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8062.88,credit,HMS Management  2,,100
+202003,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202003,Federal Trust Annadale,2501,Lease Liability - Operating,8062.88,0,debit,HMS Management  2,,100
+202004,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202004,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8043.28,credit,HMS Management  2,,100
+202004,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202004,Federal Trust Annadale,2501,Lease Liability - Operating,8043.28,0,debit,HMS Management  2,,100
+202005,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202005,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8110.4,credit,HMS Management  2,,100
+202005,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202005,Federal Trust Annadale,2501,Lease Liability - Operating,8110.4,0,debit,HMS Management  2,,100
+202006,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202006,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8123.42,credit,HMS Management  2,,100
+202006,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202006,Federal Trust Annadale,2501,Lease Liability - Operating,8123.42,0,debit,HMS Management  2,,100
+202007,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202007,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8188.34,credit,HMS Management  2,,100
+202007,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202007,Federal Trust Annadale,2501,Lease Liability - Operating,8188.34,0,debit,HMS Management  2,,100
+202008,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202008,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8204.35,credit,HMS Management  2,,100
+202008,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202008,Federal Trust Annadale,2501,Lease Liability - Operating,8204.35,0,debit,HMS Management  2,,100
+202009,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202009,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8245.05,credit,HMS Management  2,,100
+202009,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202009,Federal Trust Annadale,2501,Lease Liability - Operating,8245.05,0,debit,HMS Management  2,,100
+202010,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202010,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8306.62,credit,HMS Management  2,,100
+202010,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202010,Federal Trust Annadale,2501,Lease Liability - Operating,8306.62,0,debit,HMS Management  2,,100
+202011,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202011,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8327.16,credit,HMS Management  2,,100
+202011,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202011,Federal Trust Annadale,2501,Lease Liability - Operating,8327.16,0,debit,HMS Management  2,,100
+202012,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202012,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8386.47,credit,HMS Management  2,,100
+202012,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202012,Federal Trust Annadale,2501,Lease Liability - Operating,8386.47,0,debit,HMS Management  2,,100
+202101,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202101,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8410.08,credit,HMS Management  2,,100
+202101,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202101,Federal Trust Annadale,2501,Lease Liability - Operating,8410.08,0,debit,HMS Management  2,,100
+202102,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202102,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8451.81,credit,HMS Management  2,,100
+202102,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202102,Federal Trust Annadale,2501,Lease Liability - Operating,8451.81,0,debit,HMS Management  2,,100
+202103,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202103,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8535.56,credit,HMS Management  2,,100
+202103,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202103,Federal Trust Annadale,2501,Lease Liability - Operating,8535.56,0,debit,HMS Management  2,,100
+202104,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202104,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8536.08,credit,HMS Management  2,,100
+202104,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202104,Federal Trust Annadale,2501,Lease Liability - Operating,8536.08,0,debit,HMS Management  2,,100
+202105,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202105,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8589.64,credit,HMS Management  2,,100
+202105,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202105,Federal Trust Annadale,2501,Lease Liability - Operating,8589.64,0,debit,HMS Management  2,,100
+202106,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202106,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8621.04,credit,HMS Management  2,,100
+202106,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202106,Federal Trust Annadale,2501,Lease Liability - Operating,8621.04,0,debit,HMS Management  2,,100
+202107,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202107,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8672.26,credit,HMS Management  2,,100
+202107,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202107,Federal Trust Annadale,2501,Lease Liability - Operating,8672.26,0,debit,HMS Management  2,,100
+202108,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202108,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8706.84,credit,HMS Management  2,,100
+202108,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202108,Federal Trust Annadale,2501,Lease Liability - Operating,8706.84,0,debit,HMS Management  2,,100
+202109,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202109,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8750.03,credit,HMS Management  2,,100
+202109,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202109,Federal Trust Annadale,2501,Lease Liability - Operating,8750.03,0,debit,HMS Management  2,,100
+202110,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202110,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8797.7,credit,HMS Management  2,,100
+202110,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202110,Federal Trust Annadale,2501,Lease Liability - Operating,8797.7,0,debit,HMS Management  2,,100
+202111,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202111,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8837.09,credit,HMS Management  2,,100
+202111,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202111,Federal Trust Annadale,2501,Lease Liability - Operating,8837.09,0,debit,HMS Management  2,,100
+202112,Federal Trust Annadale,6361,Lease Expense,8925,0,debit,HMS Management  2,,100
+202112,Federal Trust Annadale,1801,Right of Use Asset - Operating,0,8882.36,credit,HMS Management  2,,100
+202112,Lincoln Properties,2000,Clearing Account,0,8925,credit,HMS Management  2,6/1/2020,10
+202112,Federal Trust Annadale,2501,Lease Liability - Operating,8882.36,0,debit,HMS Management  2,,100

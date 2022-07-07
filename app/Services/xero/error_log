@@ -1,0 +1,818 @@
+[24-Jun-2020 10:42:04 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/csvRead.php on line 26
+[24-Jun-2020 10:42:26 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/csvRead.php on line 26
+[24-Jun-2020 10:42:26 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 10:42:48 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:42:49 UTC] PHP Notice:  Undefined index: oauth2 in /home/wldhzlxq/public_html/ilease/storage.php on line 15
+[24-Jun-2020 10:42:51 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 10:42:54 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 10:44:18 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:18 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:27 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:27 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:43 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:43 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:47 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:47 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:47 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:47 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:47 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:47 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:48 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:48 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:48 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:44:48 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:45:11 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:45:11 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:45:38 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:45:56 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:45:56 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getToken() on null in /home/wldhzlxq/public_html/ilease/journal.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/journal.php on line 65
+[24-Jun-2020 10:46:14 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:46:14 UTC] PHP Notice:  Undefined variable: newAccessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 63
+[24-Jun-2020 10:47:48 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:47:49 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 10:47:50 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 10:56:43 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:56:44 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 10:56:46 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 10:56:46 UTC] PHP Notice:  Undefined offset: 1 in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1760
+[24-Jun-2020 10:56:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNarration() on null in /home/wldhzlxq/public_html/ilease/xeroFunction.php:1760
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/journal.php(103): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Api\AccountingApi), Array, true)
+#1 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1760
+[24-Jun-2020 10:59:27 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 10:59:27 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 10:59:28 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 11:00:01 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 11:00:01 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 11:00:02 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 11:00:32 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 11:00:32 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 11:00:34 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 11:00:52 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 11:00:52 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 11:00:53 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[24-Jun-2020 11:00:53 UTC] PHP Notice:  Undefined offset: 1 in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1760
+[24-Jun-2020 11:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNarration() on null in /home/wldhzlxq/public_html/ilease/xeroFunction.php:1760
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/journal.php(103): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Api\AccountingApi), Array, true)
+#1 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1760
+[24-Jun-2020 11:01:02 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[24-Jun-2020 11:01:03 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[24-Jun-2020 11:01:04 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[25-Jun-2020 06:26:09 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:26:11 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:26:14 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[25-Jun-2020 06:29:31 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:29:32 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:29:33 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[25-Jun-2020 06:29:55 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:29:56 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:30:05 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 86
+[25-Jun-2020 06:48:02 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:48:03 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:48:03 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 06:48:07 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 125
+[25-Jun-2020 06:49:16 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:49:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:49:16 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 06:51:05 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:51:06 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:51:06 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 06:51:08 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 06:51:08 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 06:52:17 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:52:18 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:52:18 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 06:52:21 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 06:52:21 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 06:58:58 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 06:59:06 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 06:59:06 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 06:59:10 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 06:59:10 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 06:59:11 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1758): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(125): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[25-Jun-2020 06:59:59 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:00:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:00:00 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:00:02 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:00:02 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:00:47 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:00:49 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:00:49 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:00:51 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:00:51 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:00:51 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1758): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(125): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[25-Jun-2020 07:03:32 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:03:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:04:19 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:04:19 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:05:48 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:05:50 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:06:45 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:06:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:07:21 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:07:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:10:06 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:10:07 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:13:16 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:13:19 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:13:19 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:13:20 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:13:20 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:17:25 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:17:26 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:17:26 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:17:27 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:17:27 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:17:28 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1759): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(125): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[25-Jun-2020 07:21:12 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:21:13 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:21:13 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:21:15 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:21:15 UTC] PHP Notice:  Object of class XeroAPI\XeroPHP\Models\Accounting\Accounts could not be converted to int in /home/wldhzlxq/public_html/ilease/journal.php on line 100
+[25-Jun-2020 07:25:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wldhzlxq/public_html/ilease/journal.php on line 118
+[25-Jun-2020 07:26:31 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:26:32 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:26:32 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:27:09 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:27:10 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:27:10 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:27:43 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:27:44 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:27:44 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:27:46 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:36:38 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:36:41 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:36:41 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:36:43 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:36:45 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:37:41 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:37:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:37:43 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:37:45 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:37:46 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:39:50 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:39:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:39:53 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:39:54 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:39:56 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:40:28 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:40:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:40:31 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:40:38 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:40:40 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:43:36 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:43:37 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:43:37 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:43:38 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:43:40 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:51:44 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 07:51:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 07:51:46 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:51:48 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 07:51:49 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 09:37:57 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 15
+[25-Jun-2020 09:37:59 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[25-Jun-2020 09:38:00 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 09:38:02 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[25-Jun-2020 09:38:03 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 06:55:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:55:10 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:56:13 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:56:13 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:56:25 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:56:25 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 06:56:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1742
+[26-Jun-2020 06:56:25 UTC] PHP Notice:  Undefined variable: result in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1769
+[26-Jun-2020 06:56:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:56:45 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 06:56:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1742
+[26-Jun-2020 06:56:45 UTC] PHP Notice:  Undefined variable: result in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1769
+[26-Jun-2020 06:58:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:58:01 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 06:58:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1742
+[26-Jun-2020 06:58:01 UTC] PHP Notice:  Undefined variable: result in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1769
+[26-Jun-2020 06:59:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:59:02 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 06:59:35 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 06:59:35 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 06:59:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1742
+[26-Jun-2020 06:59:35 UTC] PHP Notice:  Undefined variable: result in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1761
+[26-Jun-2020 07:00:01 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:00:01 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 07:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1742
+[26-Jun-2020 07:00:01 UTC] PHP Notice:  Undefined variable: result in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1761
+[26-Jun-2020 07:00:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:00:16 UTC] PHP Notice:  Undefined variable: myArray in /home/wldhzlxq/public_html/ilease/journal.php on line 127
+[26-Jun-2020 07:00:45 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/csvRead.php on line 26
+[26-Jun-2020 07:00:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:01:23 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:01:23 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:01:25 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:01:52 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:01:53 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:01:54 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:11:12 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:11:12 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:11:14 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:11:18 UTC] PHP Notice:  Undefined index: id in /home/wldhzlxq/public_html/ilease/journal.php on line 105
+[26-Jun-2020 07:11:50 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:11:50 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:11:52 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:13:34 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:13:34 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:13:37 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:14:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[26-Jun-2020 07:14:53 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:14:55 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[26-Jun-2020 07:14:56 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[28-Jun-2020 15:03:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[28-Jun-2020 15:03:37 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[28-Jun-2020 15:06:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[28-Jun-2020 15:06:16 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[28-Jun-2020 15:06:18 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[28-Jun-2020 15:06:19 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:12:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:12:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:23:41 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:23:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:29:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:29:54 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 06:29:56 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 06:29:56 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:29:56 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid value for 'status', must be one of 'DRAFT', 'POSTED', 'DELETED', 'VOIDED', 'ARCHIVED' in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Models/Accounting/ManualJournal.php:472
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1755): XeroAPI\XeroPHP\Models\Accounting\ManualJournal->setStatus('Posted')
+#1 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Api\AccountingApi), Array, true)
+#2 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Models/Accounting/ManualJournal.php on line 472
+[29-Jun-2020 06:30:09 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:30:09 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 06:30:11 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 06:30:12 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:30:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:30:53 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 06:30:54 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 06:30:55 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:49:41 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:56:24 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:56:55 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 06:58:04 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:03:56 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:07:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:07:33 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:07:35 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:07:36 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:07:36 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1772): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 09:10:10 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:11:25 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:11:25 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:11:27 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:11:28 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:11:28 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1772): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 09:12:32 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:12:32 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:12:33 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:12:34 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:16:11 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:16:11 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:16:13 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:16:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:16:14 UTC] PHP Notice:  Undefined variable: tr in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 3390
+[29-Jun-2020 09:16:14 UTC] PHP Notice:  Undefined variable: tr in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 3400
+[29-Jun-2020 09:16:35 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:16:35 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:16:36 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:16:37 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:16:37 UTC] PHP Notice:  Undefined variable: tr in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 3390
+[29-Jun-2020 09:16:37 UTC] PHP Notice:  Undefined variable: tr in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 3400
+[29-Jun-2020 09:17:10 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:17:10 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:17:12 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:17:12 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:19:42 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:19:42 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:19:44 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:19:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:19:45 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1770): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 09:20:23 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:20:23 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:20:25 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 09:20:26 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 09:20:26 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1770): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 10:27:04 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:27:05 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:27:13 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:27:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:27:14 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1772): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 10:28:35 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:28:35 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:28:42 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:28:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:28:43 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1769): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 10:29:11 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:29:11 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:29:13 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:29:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:29:15 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1769): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 10:32:11 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:32:11 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:32:15 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:32:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:32:16 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1769): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 10:34:57 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:34:57 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:34:59 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:35:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:35:00 UTC] PHP Fatal error:  Uncaught XeroAPI\XeroPHP\ApiException: [500] Server error: `PUT https://api.xero.com/api.xro/2.0/ManualJournals?summarizeErrors=false` resulted in a `500 Internal Server Error` response:
+{"Title":"An error occurred","Detail":"An error occurred in Xero. Check the API Status page http://status.developer.xero (truncated...)
+ in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php:10165
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php(10139): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournalsWithHttpInfo('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals), false)
+#1 /home/wldhzlxq/public_html/ilease/xeroFunction.php(1769): XeroAPI\XeroPHP\Api\AccountingApi->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Models\Accounting\ManualJournals))
+#2 /home/wldhzlxq/public_html/ilease/journal.php(129): XeroFunctionClass->createManualJournals('79654f5a-c21d-4...', Object(XeroAPI\X in /home/wldhzlxq/public_html/ilease/vendor/xeroapi/xero-php-oauth2/lib/Api/AccountingApi.php on line 10165
+[29-Jun-2020 10:36:09 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:36:09 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:36:11 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:36:12 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:38:30 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:38:30 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:38:32 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:42:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:42:02 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:42:07 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:42:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:43:36 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:43:36 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:43:40 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:43:41 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:45:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:45:31 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:45:33 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:45:34 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:46:15 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:46:15 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:46:17 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:46:18 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:50:28 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:50:28 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:50:30 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:50:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:51:25 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:51:25 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:51:27 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:51:28 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:51:48 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:51:49 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:51:50 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:51:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:04 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:04 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:29 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:29 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:55:30 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:55:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:55:45 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:55:47 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:55:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:56:23 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:56:23 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:56:25 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:56:25 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:56:35 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:56:35 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:56:37 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:56:38 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:57:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[29-Jun-2020 10:57:47 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:57:49 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 85
+[29-Jun-2020 10:57:49 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:07:41 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:10:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:11:49 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:12:03 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:15:29 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:15:50 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:17:28 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:18:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:25:06 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:25:34 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:31:12 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:32:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTrackingOption() on array in /home/wldhzlxq/public_html/ilease/tracking.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/tracking.php on line 110
+[30-Jun-2020 06:33:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:35:04 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:35:28 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 06:36:11 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:07:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:09:59 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:30:44 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:30:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTrackingCategories() in /home/wldhzlxq/public_html/ilease/tracking.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/tracking.php on line 110
+[30-Jun-2020 07:32:23 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTrackingCategories() in /home/wldhzlxq/public_html/ilease/tracking.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/tracking.php on line 110
+[30-Jun-2020 07:32:38 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:32:39 UTC] PHP Notice:  Undefined variable: track1 in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:32:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:32:39 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:33:39 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:33:39 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:33:39 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:33:39 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:35:01 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:35:02 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:35:02 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:35:02 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:35:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:35:21 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:35:21 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 07:36:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:36:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTrackingCategories() in /home/wldhzlxq/public_html/ilease/tracking.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/tracking.php on line 110
+[30-Jun-2020 07:39:57 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:39:58 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:39:58 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:39:58 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:39:58 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/tracking.php on line 127
+[30-Jun-2020 07:41:35 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:41:36 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:41:36 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:41:36 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:41:36 UTC] PHP Notice:  Undefined variable: values in /home/wldhzlxq/public_html/ilease/tracking.php on line 127
+[30-Jun-2020 07:42:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:42:02 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:42:02 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:42:02 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:42:45 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:42:46 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:42:46 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:42:46 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:42:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:43:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:43:55 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:43:55 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:43:55 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:44:23 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:44:27 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:44:27 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:44:27 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:45:59 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:46:00 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:46:00 UTC] PHP Notice:  Undefined variable: line in /home/wldhzlxq/public_html/ilease/tracking.php on line 109
+[30-Jun-2020 07:46:00 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:46:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:47:30 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:47:31 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:47:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:49:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:49:01 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:51:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:51:49 UTC] PHP Notice:  Undefined variable: op in /home/wldhzlxq/public_html/ilease/tracking.php on line 122
+[30-Jun-2020 07:51:49 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:59:03 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:59:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:59:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:59:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:59:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 07:59:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:04:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:04:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:04:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:04:56 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:05:03 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:05:03 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:05:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:05:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:05:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:06:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:06:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:06:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:06:46 UTC] PHP Notice:  Array to string conversion in /home/wldhzlxq/public_html/ilease/tracking.php on line 128
+[30-Jun-2020 08:08:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:08:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:08:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:38 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:39 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:39 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:39 UTC] PHP Notice:  Undefined variable: track in /home/wldhzlxq/public_html/ilease/tracking.php on line 132
+[30-Jun-2020 08:09:39 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wldhzlxq/public_html/ilease/tracking.php on line 132
+[30-Jun-2020 08:09:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:09:54 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wldhzlxq/public_html/ilease/tracking.php on line 132
+[30-Jun-2020 08:11:25 UTC] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/wldhzlxq/public_html/ilease/tracking.php on line 133
+[30-Jun-2020 08:11:42 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:11:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:11:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:11:43 UTC] PHP Warning:  explode(): Empty delimiter in /home/wldhzlxq/public_html/ilease/tracking.php on line 132
+[30-Jun-2020 08:12:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:12:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:12:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:17:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:17:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:17:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:17:48 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:17:55 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:17:55 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:19:22 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:19:22 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:19:22 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:24:56 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:24:57 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:24:57 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:29:17 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:29:18 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:29:18 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:31:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:31:17 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:31:17 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:33:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:33:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:33:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:34:55 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:41 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:35:54 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:43:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:43:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:43:47 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:43:50 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:43:51 UTC] PHP Notice:  Undefined variable: track1 in /home/wldhzlxq/public_html/ilease/tracking.php on line 129
+[30-Jun-2020 08:43:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/wldhzlxq/public_html/ilease/tracking.php on line 129
+[30-Jun-2020 08:46:09 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:46:10 UTC] PHP Notice:  Undefined variable: dbc4 in /home/wldhzlxq/public_html/ilease/tracking.php on line 104
+[30-Jun-2020 08:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAll() on null in /home/wldhzlxq/public_html/ilease/tracking.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/tracking.php on line 104
+[30-Jun-2020 08:47:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:47:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:47:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:47:19 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:47:25 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:47:28 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:47:43 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:48:48 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:49:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:50:26 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:52:30 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:53:01 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:53:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:53:02 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:54:59 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:55:00 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:55:06 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:56:39 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:57:18 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:57:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:57:20 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 08:57:36 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:09:01 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:09:01 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:09:04 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:09:05 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:09:35 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:09:35 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:09:38 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:09:38 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:10:31 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:10:31 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:10:33 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:10:34 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:13:14 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:13:14 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:13:16 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:13:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:15:06 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:15:06 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:15:07 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:15:08 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:15:49 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[30-Jun-2020 09:15:49 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:15:51 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[30-Jun-2020 09:15:51 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:22:14 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:22:16 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:23:42 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:23:44 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:24:10 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:24:11 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:29:12 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:29:13 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:31:05 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:31:09 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:31:53 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:31:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:33:57 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:33:58 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:39:52 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:39:53 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:40:58 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:40:58 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:41:00 UTC] PHP Notice:  Undefined offset: 1 in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1417
+[03-Jul-2020 08:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTotal() on null in /home/wldhzlxq/public_html/ilease/xeroFunction.php:1417
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/journal.php(97): XeroFunctionClass->createInvoices('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Api\AccountingApi), true)
+#1 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1417
+[03-Jul-2020 08:41:40 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:41:40 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:43:49 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:43:50 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:45:45 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:45:46 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:45:47 UTC] PHP Notice:  Undefined offset: 1 in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1416
+[03-Jul-2020 08:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTotal() on null in /home/wldhzlxq/public_html/ilease/xeroFunction.php:1416
+Stack trace:
+#0 /home/wldhzlxq/public_html/ilease/journal.php(97): XeroFunctionClass->createInvoices('79654f5a-c21d-4...', Object(XeroAPI\XeroPHP\Api\AccountingApi), true)
+#1 {main}
+  thrown in /home/wldhzlxq/public_html/ilease/xeroFunction.php on line 1416
+[03-Jul-2020 08:46:06 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:46:07 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[03-Jul-2020 08:49:47 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[03-Jul-2020 08:49:48 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[04-Jul-2020 18:02:14 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[04-Jul-2020 18:02:15 UTC] PHP Warning:  require_once(example.php): failed to open stream: No such file or directory in /home/wldhzlxq/public_html/ilease/journal.php on line 39
+[04-Jul-2020 18:02:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'example.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/wldhzlxq/public_html/ilease/journal.php on line 39
+[04-Jul-2020 18:05:36 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[04-Jul-2020 18:05:39 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[08-Jul-2020 08:47:41 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 14
+[08-Jul-2020 08:47:41 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 15
+[08-Jul-2020 08:47:41 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 33
+[08-Jul-2020 08:47:41 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 33
+[08-Jul-2020 08:48:11 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 14
+[08-Jul-2020 08:48:11 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 15
+[08-Jul-2020 08:48:11 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 35
+[08-Jul-2020 08:48:11 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 35
+[08-Jul-2020 08:48:56 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 14
+[08-Jul-2020 08:48:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 15
+[08-Jul-2020 08:48:56 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 33
+[08-Jul-2020 08:48:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 33
+[08-Jul-2020 08:48:56 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 34
+[08-Jul-2020 08:48:56 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 34
+[08-Jul-2020 08:48:56 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:48:56 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:50:20 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 14
+[08-Jul-2020 08:50:20 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 15
+[08-Jul-2020 08:50:20 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 33
+[08-Jul-2020 08:50:20 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 33
+[08-Jul-2020 08:50:20 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 34
+[08-Jul-2020 08:50:20 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 34
+[08-Jul-2020 08:50:20 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:50:20 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:54:39 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 18
+[08-Jul-2020 08:54:39 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 19
+[08-Jul-2020 08:54:39 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 37
+[08-Jul-2020 08:54:39 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 37
+[08-Jul-2020 08:54:39 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:54:39 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:54:39 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 42
+[08-Jul-2020 08:54:39 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 42
+[08-Jul-2020 08:55:05 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 18
+[08-Jul-2020 08:55:05 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 19
+[08-Jul-2020 08:55:05 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:55:05 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:55:05 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 42
+[08-Jul-2020 08:55:05 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 42
+[08-Jul-2020 08:55:50 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 18
+[08-Jul-2020 08:55:50 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 19
+[08-Jul-2020 08:55:50 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:55:50 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 38
+[08-Jul-2020 08:55:50 UTC] PHP Notice:  Undefined variable: ch in /home/wldhzlxq/public_html/ilease/quickbook.php on line 42
+[08-Jul-2020 08:55:50 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/wldhzlxq/public_html/ilease/quickbook.php on line 42
+[10-Jul-2020 08:03:10 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[10-Jul-2020 08:03:12 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[10-Jul-2020 08:03:18 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[10-Jul-2020 08:03:20 UTC] PHP Notice:  Undefined index: Type in /home/wldhzlxq/public_html/ilease/journal.php on line 104
+[10-Jul-2020 08:03:21 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[10-Jul-2020 08:04:33 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[10-Jul-2020 08:04:33 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113
+[10-Jul-2020 08:06:09 UTC] PHP Notice:  Undefined index: accessToken in /home/wldhzlxq/public_html/ilease/journal.php on line 34
+[10-Jul-2020 08:06:09 UTC] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home/wldhzlxq/public_html/ilease/db.php on line 113

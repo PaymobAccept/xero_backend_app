@@ -1,0 +1,19 @@
+{
+    "name": "facebook/sdk",
+    "description": "facebook marketing api sdk",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sarbrinder Singh",
+            "email": "sarbrindersingh31@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "Facebook\\Sdk\\": "src/"
+        }
+    },
+    "require": {}
+}
